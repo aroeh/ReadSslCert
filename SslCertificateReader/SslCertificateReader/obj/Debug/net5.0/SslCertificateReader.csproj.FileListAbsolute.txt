@@ -1,0 +1,16 @@
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.exe
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.deps.json
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.runtimeconfig.json
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.runtimeconfig.dev.json
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.dll
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\ref\SslCertificateReader.dll
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\bin\Debug\net5.0\SslCertificateReader.pdb
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.csprojAssemblyReference.cache
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.AssemblyInfoInputs.cache
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.AssemblyInfo.cs
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.csproj.CoreCompileInputs.cache
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.dll
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\ref\SslCertificateReader.dll
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.pdb
+C:\Users\arroe\source\repos\Utilities\ReadSslCert\SslCertificateReader\SslCertificateReader\obj\Debug\net5.0\SslCertificateReader.genruntimeconfig.cache
